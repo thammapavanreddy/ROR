@@ -1,2 +1,0 @@
-# ROR
-ROR experimentation
